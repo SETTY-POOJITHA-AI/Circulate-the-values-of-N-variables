@@ -30,4 +30,4 @@ def circulate():
 ![GitHub Logo](CIRCULATE.jpeg)
 
 ## Result:
-PROGRAM FINISHED SUCCESSFULLY.
+Thus the program to circulate the values in list is done successully.
